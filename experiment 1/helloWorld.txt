@@ -1,0 +1,11 @@
+Hello! I am Ammar
+I Have Written this text file to count the number of lines
+spaces and words in a specified file
+the way that this works is that the user sends in the name of
+the file as an argument on calling the executable
+for example : 
+if you want to use this on the file called "ok.txt"
+you would enter this command 
+> counter.exe ok.txt
+and the code would perform as expected, printing the 
+output in the terminal window
